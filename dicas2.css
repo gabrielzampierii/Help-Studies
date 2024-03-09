@@ -1,0 +1,139 @@
+.custom-bg {
+    background-color: #836FFF;
+    /* ou a cor de roxo desejada */
+}
+
+
+p {
+    font-size: 30px;
+    /* Tamanho da fonte */
+    color: white;
+    /* Cor do texto */
+    background-color: none;
+    /* Cor de fundo */
+    padding: 10px 52px;
+    /* Espaçamento interno (topo e base, direita e esquerda) */
+    border-radius: 5px;
+    /* Borda arredondada */
+    text-align: center;
+    /* Alinhamento do texto ao centro */
+    margin: 0;
+    /* Remover margens padrão */
+    font-family: 'Quicksand', sans-serif;
+}
+
+.card-title1 {
+    color: #FF8C00;
+    /* Define a cor laranja para o título */
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.card-title {
+    color: #FF8C00;
+    /* Define a cor laranja para o título */
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+.card {
+    background-color: #836FFF;
+    /* Cor de fundo do retângulo */
+    border: 30px;
+    /* Borda do retângulo */
+    margin: 10px;
+
+}
+
+.card-text {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+
+}
+
+.subtitulo {
+    font-size: 32px;
+    color: white;
+}
+
+.card-body {
+
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.subtitulo2 {
+    font-size: 25px;
+    color: white;
+}
+
+.formula {
+    color: #FF8C00;
+    font-size: 18px;
+}
+
+.card-body {
+    position: relative;
+    z-index: 1;
+}
+
+.subtitulo3 {
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+
+.card-text3 {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+
+}
+
+.card-text5 {
+    text-align: center;
+    color: black;
+    font-size: 19px;
+    text-align: left;
+    font-family: 'Anton', sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+.subtitulo4 {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+.card-text4 {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+
+}
+
+.card-title3 {
+    font-size: 25px;
+    color: #FF8C00;
+    /* Define a cor laranja para o título */
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+   
+}
+
+.text2 {
+   
+    font-family: 'Quicksand', sans-serif;
+    font-size: 29.1px;
+}

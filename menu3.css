@@ -1,0 +1,32 @@
+nav{
+    background-color: #836FFF ;
+}
+.elemento {
+    flex-grow: 1;
+}
+.container {
+    display: grid;
+    gap: 350px;
+}
+.texto {
+    display: inline-block;
+}
+.main {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+}
+.container {            
+     width: 300px;     
+     height: 200px;
+}
+.nav-link.orange-text {
+  color: orange;
+  }
+  .navbar-nav .nav-link {
+    margin-right: 200px;
+  }
+  .navbar-nav{
+    font-size: 22px;
+    font-family: 'Quicksand', sans-serif;
+  }

@@ -1,0 +1,60 @@
+.custom-bg {
+    background-color: #836FFF;
+    /* ou a cor de roxo desejada */
+}
+/* Estilo para a classe custom-card */
+.custom-card {
+width: 100%; /* Define a largura do cartão como 100% do contêiner pai */
+max-width: 200px; /* Define a largura máxima do cartão para evitar que ele fique muito largo */
+margin-right: 20px; /* Adiciona margem à direita para espaçamento entre os cartões */
+}
+
+/* Estilo para a imagem dentro do cartão */
+.custom-card img {
+width: 100%; /* Ajusta a largura da imagem para ocupar 100% do contêiner */
+height: auto; /* Mantém a proporção da imagem */
+object-fit: cover; /* Garante que a imagem cubra completamente o contêiner */
+}
+
+/* Estilo para o conteúdo do cartão */
+.custom-card .card-body {
+padding: 10px; /* Adiciona preenchimento ao conteúdo do cartão */
+}
+.botao-whatsapp {
+    display: inline-block;
+    border: 2px solid black; /* Contorno preto */
+    border-radius: 25px; /* Borda arredondada */
+    padding: 10px 100px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.botao-whatsapp img {
+    margin-right: 0px; /* Espaço entre o texto e a imagem */
+    vertical-align: middle; /* Alinha a imagem verticalmente com o texto */
+}
+
+.botao-div {
+    text-align: center;
+    margin-top: 50px;
+}
+.navbar {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.navbar p {
+margin: 0; /* Remova qualquer margem padrão para evitar espaçamento indesejado */
+}
+p {
+font-size: 30px; /* Tamanho da fonte */
+color: white; /* Cor do texto */
+background-color:none; /* Cor de fundo */
+padding: 10px 52px; /* Espaçamento interno (topo e base, direita e esquerda) */
+border-radius: 5px; /* Borda arredondada */
+text-align: center; /* Alinhamento do texto ao centro */
+margin: 0; /* Remover margens padrão */
+font-family: 'Quicksand', sans-serif;
+}

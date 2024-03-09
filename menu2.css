@@ -1,0 +1,32 @@
+body{
+    margin-top:0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+nav {
+    background-color: #836FFF ;
+}
+
+.elemento-style {
+    flex-grow: 0.8;
+    font-size: 18px;
+    line-height: 1.8;
+    text-align: center;
+    line-height: 28px;
+    height: 450px;
+    width: 70%;
+    padding: 35px;
+}
+.container {
+    display: flex;
+    gap: 300px;
+    align-items: center;
+    height: 55vh;
+    padding: 20px;
+}
+.faixa {
+    position: relative;
+    display: inline-block;
+  }
+
+

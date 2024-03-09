@@ -1,0 +1,84 @@
+.custom-cadastro {
+    font-family: 'Quicksand', sans-serif;
+    /* Substitua 'SuaFonte' pela fonte desejada */
+    text-align: center;
+    /* Centraliza o conteúdo dentro da div */
+    margin: 0 auto;
+    /* Centraliza a div horizontalmente na página */
+    max-width: 600px;
+    /* Define a largura máxima da div, ajuste conforme necessário */
+
+}
+
+
+body {
+    margin: 0;
+    flex-direction: column;
+    height: 100%;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+}
+
+.sidebar {
+    width: 900px;
+    /* Largura da barra lateral */
+
+    /* Altura total da viewport */
+    /* Cor de fundo da barra lateral */
+}
+
+.sidebar img {
+    max-width: 100%;
+    /* Garante que a imagem não ultrapasse a largura da barra lateral */
+    height: auto;
+    /* Mantém a proporção da imagem */
+}
+
+.main-content {
+    flex: 1;
+    /* Faz com que o conteúdo principal ocupe todo o espaço restante */
+    padding: 100px;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+
+}
+
+.main-content2 {
+    text-align: center;
+    /* Centraliza o conteúdo dentro da div */
+    margin: 0 auto;
+    /* Centraliza a div horizontalmente na página */
+    max-width: 600px;
+    /* Define a largura máxima da div, ajuste conforme necessário */
+}
+
+.custom-cadastro2 {
+    font-family: 'Quicksand', sans-serif;
+
+    font-size: 20px;
+    text-align: center;
+    /* Centraliza o conteúdo dentro da div */
+    margin: 0 auto;
+    /* Centraliza a div horizontalmente na página */
+    max-width: 600px;
+    /* Define a largura máxima da div, ajuste conforme necessário */
+}
+
+.botao-colorido {
+    background-color: #836FFF;
+    /* Define a cor de fundo do botão */
+    color: white;
+    /* Define a cor do texto do botão */
+    border-radius: 20px;
+    /* Faz com que o botão seja arredondado */
+    padding: 10px 20px;
+    /* Adiciona um espaço interno ao botão para melhor aparência */
+    border: none;
+    /* Remove a borda do botão */
+    cursor: pointer;
+    /* Mostra o cursor como ponteiro quando passa sobre o botão */
+    font-family: 'Quicksand', sans-serif;
+}
